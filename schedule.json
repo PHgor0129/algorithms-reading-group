@@ -1,20 +1,37 @@
 {
   "Fall 2025": [
     {
+      "date": "2025-09-11",
+      "title": "The Power of Randomization in Greedy Algorithms",
+      "link": "https://arxiv.org/pdf/2345.6789.pdf",
+      "authors": "Ada Lovelace",
+      "presenter": "Bob Lee"
+    },
+    {
       "date": "2025-09-04",
       "title": "Faster Dijkstra with Buckets",
       "link": "https://arxiv.org/pdf/1234.5678.pdf",
       "authors": "John Smith, Jane Doe",
       "presenter": "Alice Chen"
-    },
+    }
+  ],
+  "Spring 2026": [
     {
       "date": "2025-09-11",
       "title": "The Power of Randomization in Greedy Algorithms",
       "link": "https://arxiv.org/pdf/2345.6789.pdf",
       "authors": "Ada Lovelace",
       "presenter": "Bob Lee"
+    },
+    {
+      "date": "2025-09-04",
+      "title": "Faster Dijkstra with Buckets",
+      "link": "https://arxiv.org/pdf/1234.5678.pdf",
+      "authors": "John Smith, Jane Doe",
+      "presenter": "Alice Chen"
     }
   ]
 }
+
 
 
