@@ -1,25 +1,19 @@
 {
   "Fall 2025": [
     {
-      "date": "2025-09-11",
-      "title": "The Power of Randomization in Greedy Algorithms",
-      "link": "https://arxiv.org/pdf/2345.6789.pdf",
-      "authors": "Ada Lovelace",
-      "presenter": "Bob Lee"
-    },
-    {
       "date": "2025-09-04",
-      "title": "Faster Dijkstra with Buckets",
-      "link": "https://arxiv.org/pdf/1234.5678.pdf",
-      "authors": "John Smith, Jane Doe",
-      "presenter": "Alice Chen"
+      "title": "Work-Efficient Parallel Counting via Sampling",
+      "link": "https://arxiv.org/abs/2408.09719",
+      "authors": "Hongyang Liu, Yitong Yin, Yiyao Zhang",
+      "presenter": "Joshua Sobel"
     },
     {
-      "date": "2026-08-28",
-      "title": "Cache-Efficient Algorithms for Sorting",
-      "link": "https://arxiv.org/pdf/3456.7890.pdf",
-      "authors": "Grace Hopper",
-      "presenter": "Charlie Kim"
+      "date": "2025-09-11",
+      "title": "Solving Sequential Greedy Problems Distributedly with Sub-Logarithmic Energy Cost",
+      "link": "https://arxiv.org/pdf/2410.20499",
+      "authors": "Ada Lovelace",
+      "presenter": "Hongyan Ji"
     }
   ]
 }
+
